@@ -3,6 +3,10 @@ My Reading Notes
 
 我的读书笔记
 
+## Java调优
+
+*  [读书笔记之Java性能调优概述](http://blog.edagarli.com/2016/01/21/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8BJava%E7%A8%8B%E5%BA%8F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+
 
 ## HBase
 
@@ -11,6 +15,6 @@ My Reading Notes
 
 ## Nginx
 
-*  [读书笔记之linux内核参数优化](http://localhost:4000/2016/01/18/linux%E5%86%85%E6%A0%B8%E5%8F%82%E6%95%B0%E4%BC%98%E5%8C%96/)
+*  [读书笔记之linux内核参数优化](http://blog.edagarli.com/2016/01/18/linux%E5%86%85%E6%A0%B8%E5%8F%82%E6%95%B0%E4%BC%98%E5%8C%96/)
 
 
