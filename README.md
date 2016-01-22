@@ -2,6 +2,9 @@
 My Reading Notes
 
 我的读书笔记
+## 框架
+*  [实现依赖注入功能](http://blog.edagarli.com/2016/01/22/%E5%AE%9E%E7%8E%B0%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E5%8A%9F%E8%83%BD/)
+
 
 ## Java调优
 
