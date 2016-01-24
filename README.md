@@ -9,6 +9,7 @@ My Reading Notes
 ## Java调优
 
 *  [读书笔记之Java性能调优概述](http://blog.edagarli.com/2016/01/21/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8BJava%E7%A8%8B%E5%BA%8F%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/)
+*  [单例模式使用和实现之优化笔记](http://blog.edagarli.com/2016/01/23/ww/)
 
 
 ## HBase
