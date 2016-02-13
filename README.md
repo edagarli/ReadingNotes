@@ -18,6 +18,7 @@ My Reading Notes
 *  [读书笔记之认识HBase](http://blog.edagarli.com/2016/01/20/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8B%E8%AE%A4%E8%AF%86HBase/)
 *  [读书笔记之HBase数据模型](http://blog.edagarli.com/2016/01/21/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E4%B9%8BHBase%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B/)
 *  [HBase表结构设计笔记](http://blog.edagarli.com/2016/02/06/HBase%E8%A1%A8%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1%E7%AC%94%E8%AE%B0/)
+*  [为啥HBase需要搭建SQL引擎层](http://blog.edagarli.com/2016/02/12/%E4%B8%BA%E5%95%A5HBase%E9%9C%80%E8%A6%81%E6%90%AD%E5%BB%BASQL%E5%BC%95%E6%93%8E%E5%B1%82/)
 
 ## Nginx模块开发与架构解析
 
